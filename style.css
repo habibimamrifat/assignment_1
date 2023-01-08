@@ -20,7 +20,7 @@ margin-bottom: 166px;
 .banner
 {
     
-background-image:url(./new-year-new-me/images/banner/banner3.png);
+background-image:url(./needed/images/banner/banner3.png);
 background-size: cover;
 
 text-align: right;
@@ -126,7 +126,7 @@ font-size: 30px;
 
 
 .gredi{
-   background-image: url(./new-year-new-me/images/watch.png);
+   background-image: url(./needed/images/watch.png);
    display: flex;
    width: 1140px;
    height: 300px;
@@ -138,7 +138,7 @@ font-size: 30px;
 
 .overlay
 {
-background-image: url(./new-year-new-me/images/gradient1.png);
+background-image: url(./needed/images/gradient1.png);
 width: 1140px;
    height: 300px;
 }
