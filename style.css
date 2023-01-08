@@ -1,0 +1,231 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.g_but
+{
+    color:blue;
+background-color:white;
+font-weight: 600;
+font-size: 20px;
+border: none;
+border-radius: 5px;
+padding: 10px 20px;
+margin-bottom: 166px;
+}
+
+/* banner */
+.banner
+{
+    
+background-image:url(./new-year-new-me/images/banner/banner3.png);
+background-size: cover;
+
+text-align: right;
+background-position: left bottom;
+width: 1350px;
+height: 808px;
+margin-bottom: 50px;
+}
+
+.b_text
+{
+    margin-right: 100px;
+    margin-left: 100px;
+    
+
+}
+
+.b_moto
+{
+    color: white;
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 24px;
+    padding-top: 216px;
+
+}
+
+.b_sub{
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 32px;
+    margin-left: 750px;
+}
+
+/* main */
+
+
+.m
+{
+    display: flex;
+   margin: 100px;
+    justify-content: center;
+}
+
+.m_all{
+  padding-top: 300px;
+  padding-right: 200px;
+    
+}
+.m_description
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+.m_sub
+{
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+
+}
+
+/* my plan */
+
+.mp{
+    text-align: center;
+}
+
+.mp_t{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 25px;
+   
+}
+.mp_con
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.mp_pic{
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.h{
+    font-weight: 700;
+font-size: 30px;
+}
+
+.s{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+
+/* grediant */
+
+
+.gredi{
+   background-image: url(./new-year-new-me/images/watch.png);
+   display: flex;
+   width: 1140px;
+   height: 300px;
+   justify-content: space-around;
+   background-repeat: no-repeat;
+   
+   margin: 100px;
+}
+
+.overlay
+{
+background-image: url(./new-year-new-me/images/gradient1.png);
+width: 1140px;
+   height: 300px;
+}
+
+
+.gr_tx{
+
+    font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+
+}
+.g_but
+{
+    font-weight: 400;
+    font-size: 20px
+    
+
+}
+.w_w
+{
+    margin-top: 60px;
+    margin-left: 65px;
+    margin-right: 616px;
+}
+
+/* footer */
+footer
+{
+    display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding-bottom: 50px;
+}
+.f_t
+{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+
+
+.f_left{
+    margin-top: 50px;
+    width: 485px;
+    height: 317px
+
+}
+
+.f_right{
+    margin-top: 50px;
+    width: 325px;
+height: 204px;
+border: none;
+
+}
+
+.f_c
+{
+font-weight: 400;
+font-size: 16px;
+ padding-bottom: 35px;
+}
+.fr_t{
+
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 25px;
+    
+}
+.f_btn
+{
+    width: 150.11px;
+height: 50px;
+color: white;
+background-color: blue;
+border: none;
+border-radius: 10px;
+
+
+}
+.f_email
+{
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    margin-bottom: 25px;
+}
